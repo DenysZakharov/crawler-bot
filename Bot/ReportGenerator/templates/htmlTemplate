@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>%s</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Address page</th>
+            <th>Tag 'img' count</th>
+            <th>Page processed time (ms)</th>
+        </tr>
+        %s
+    </table>
+</body>
+</html>
